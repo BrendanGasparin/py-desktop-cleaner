@@ -1,7 +1,7 @@
-# py-desktop-cleaner
-A Python script that cleans certain types of files from the desktop and places them in a series of subdirectories in the /OneDrive/Desktop Organizer/ subdirectory of the user's home directory. If the sub-directories do not already exist then they are created.  
+# py-desktop-organizer
+A Python script that moves certain types of files from the user's /OneDrive/Desktop/ directory and places them in a series of subdirectories in the /OneDrive/Desktop Organizer/ directory. If the sub-directories and parent directory do not already exist then they are created.  
 
-This project is based on a YouTube tutorial by [Tiff In Tech](https://www.youtube.com/channel/UC4MZ7zUHb5eAxU75Dc_nqdQ) called [Code With Me: Automating My Life With Python | Build a file organizer](https://www.youtube.com/watch?v=P7e5-n9FuXU). I have modified it to support more file types and to move the files to a Desktop Organizer directory in OneDrive. I plan to add more functionality in the future.  
+This project is based on a YouTube tutorial by [Tiff In Tech](https://www.youtube.com/channel/UC4MZ7zUHb5eAxU75Dc_nqdQ) called [Code With Me: Automating My Life With Python | Build a file organizer](https://www.youtube.com/watch?v=P7e5-n9FuXU). I have modified it to support more file types and to move the files to a /Desktop Organizer/ directory in OneDrive. I plan to add more functionality in the future, such as the ability to choose source and destination directories.  
 
 ## Supported File Types
 
